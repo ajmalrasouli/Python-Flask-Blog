@@ -1,0 +1,21 @@
+{
+ "params":
+ {
+  "local_server": "True",
+   "local_uri": "mysql://root:@localhost/codingthunder",
+   "prod_uri": "mysql://root:@localhost/codingthunder",
+   "fb_url": "https://facebook.com/codingthunder",
+   "tw_url": "https://twitter.com/codingthunder",
+   "gh_url": "https://github.com/codingthunder",
+   "blog_name": "Ajmaltech.com",
+   "gmail-user": "ajmalras@gmail.com",
+   "gmail-password": "hbnjnmkm",
+  "about_text":"Hi my name is Ajmal and I create programming tutorials, and I enjoy teaching",
+  "no_of_posts":6,
+  "login_image": "login.svg",
+  "admin_user": "ajmal",
+  "admin_password":"password1",
+  "upload_location": "C:\\Flask"
+
+ }
+}
